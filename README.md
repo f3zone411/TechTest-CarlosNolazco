@@ -23,3 +23,5 @@ DELETE - 104.154.183.67/courses/+"idCourse" (Elimina un curso)
 DELETE - 104.154.183.67/students/+"idStudent" (Elimina un estudiante)  
 PUT - 104.154.183.67/students/+"idStudent" (Modifica la información de un estudiante)  
 PUT - 104.154.183.67/courses/+"idCourse" (Modifica la información de un curso)  
+
+Enlace a la explicación en video por Youtube: https://youtu.be/5As35GRgkQ8
